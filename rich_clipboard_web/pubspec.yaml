@@ -2,7 +2,7 @@ name: rich_clipboard_web
 description: Web implementation of the rich_clipboard plugin.
 homepage: https://github.com/fegea-immo/rich_clipboard_web
 repository: https://github.com/fegea-immo/rich_clipboard_web
-version: 1.0.2
+version: 1.0.3
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
